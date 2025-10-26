@@ -1,5 +1,7 @@
 {
   "update_enabled": true,
   "update_url": "https://youtube.com/@kai_modx",
-  "message": "يرجى تحميل تحديث جديد\n\nسوف تحدون تحديث على\nفتائي رسمية\n\nو شكرا"
+  "message_title": "بوجه تحديث التطبيق",
+  "message_body": "يرجى تحميل تحديث جديد\n\nسوف تحدون تحديث على\nفتائي رسمية\n\nو شكرا",
+  "button_text": "تحديث"
 }
